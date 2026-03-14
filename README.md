@@ -37,11 +37,17 @@ Here are some ideas to get you started:
 ## 🇺🇸 About Me & Current Role
 I am a **Senior Developer & Architect** at **Mercan Properties**, working at the intersection of software engineering, system integration, and data engineering. With 28 years of experience, I focus on building scalable, maintainable, and cloud-aligned systems.
 
-### 🏢 At Mercan Properties:
+As a **Backend Mentor** at **[Squad Academy](https://squad-academy.com/)**, I believe that sharing knowledge is the ultimate way to master it, valuing the cycle of teaching as much as the constant journey of learning.
+
+<details>
+<summary><b>Senior Developer</b></summary>
+  
+## 🏢 At Mercan Properties:
 * **Architecture & Integration:** I design complex integrations between internal systems and critical platforms like **Primavera ERP** and **Salesforce CRM**, building reliable integration layers.
 * **Ecosystem:** Responsible for maintaining business-critical workflows using **C# / .NET**, backed by **SQL Server** and **PostgreSQL** with a focus on data modeling and performance.
 * **Cloud & Modern Data:** I leverage **Microsoft Azure** for architectural resilience and am currently leading the definition of the company’s data engineering foundations using **Microsoft Fabric**.
 * **Data Pipelines:** I implement data processing solutions using **Python**, transforming operational data into structured datasets for analytics and reporting.
+</details>
 
 ---
 
@@ -49,7 +55,9 @@ I am a **Senior Developer & Architect** at **Mercan Properties**, working at the
 <summary><b>🇧🇷 Leia em Português</b></summary>
 
 ## 🇧🇷 Sobre Mim & Atuação Atual
-Sou **Desenvolvedor Sénior e Arquiteto** na **Mercan Properties**, atuando na interseção de engenharia de software, integração de sistemas e engenharia de dados. Com 28 anos de experiência, foco na construção de sistemas escaláveis e alinhados à nuvem.
+Sou **Desenvolvedor Sênior e Arquiteto** na **Mercan Properties**, atuando na interseção de engenharia de software, integração de sistemas e engenharia de dados. Com 28 anos de experiência, foco na construção de sistemas escaláveis e alinhados à nuvem.
+
+Como **Mentor de Backend** na **[Squad Academy](https://squad-academy.com/)**, acredito que partilhar conhecimento é a melhor forma de o dominar, valorizando tanto o ato de ensinar quanto a jornada constante de aprender.
 
 ### 🏢 Na Mercan Properties:
 * **Arquitetura & Integração:** Projeto integrações complexas entre sistemas internos e plataformas críticas como **Primavera ERP** e **Salesforce CRM**, construindo camadas de integração confiáveis.
@@ -60,20 +68,47 @@ Sou **Desenvolvedor Sénior e Arquiteto** na **Mercan Properties**, atuando na i
 
 ---
 
+## 📂 Featured Portfolio
+
+### 🚀 Data Engineering
+* **[Final Project - Data Engineering](https://github.com/michelgomessilva/data-engineering-prj-final)**
+    * *Description:* Advanced data pipeline architecture using **PySpark** for distributed processing, dbt for transformations, and Airflow for orchestration across multi-cloud environments.
+    * *Tech Stack:* ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+
+---
+
+<details>
+<summary><b>🇧🇷 Ver Portfolio em Português</b></summary>
+
+## 📂 Portfolio em Destaque
+
+### 🚀 Engenharia de Dados
+* **[Projeto Final - Engenharia de Dados](https://github.com/michelgomessilva/data-engineering-prj-final)**
+    * *Descrição:* Arquitetura avançada de pipeline de dados utilizando **PySpark** para processamento distribuído, dbt para transformações e Airflow para orquestração em ambientes multi-cloud.
+    * *Tecnologias:* ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+</details>
+
+---
+
 ## 🛠️ Core Technologies
 
 ### 💻 Development & Architecture
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Software Architecture](https://img.shields.io/badge/Architecture-FFB13B?style=for-the-badge&logo=architecture&logoColor=black)
+![Architecture](https://img.shields.io/badge/Architecture-FFB13B?style=for-the-badge&logo=architecture&logoColor=black)
 
-### 📊 Data & Cloud
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+### 📊 Data Engineering & Orchestration
+![Fabric](https://img.shields.io/badge/Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+### ☁️ Databases & Cloud Platforms
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ---
 
 ## 📊 GitHub Ecosystem
