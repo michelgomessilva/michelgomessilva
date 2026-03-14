@@ -91,7 +91,6 @@ Sou **Desenvolvedor Sénior e Arquiteto** na **Mercan Properties**, atuando na i
 ## 📬 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/michelsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelsilva" height="30" width="40" /></a>
-<a href="mailto:michel.gomes.silva@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </p>
 
 <div align="center">
