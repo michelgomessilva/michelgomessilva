@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
+  <img src="https://github.com/michelgomessilva/michelgomessilva/blob/main/banner-github-profile.jpg?raw=true" alt="Michel Silva Banner" width="100%">
 </div>
 
 <div align="right">
