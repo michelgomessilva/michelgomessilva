@@ -83,8 +83,8 @@ Recentemente, tenho dedicado grande parte do meu tempo ao estudo profundo de **E
 
 ## 📊 GitHub Ecosystem
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michelgomessilva&show_icons=true&theme=radical&rank_icon=github&display_format=v2" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelgomessilva&layout=compact&theme=radical&langs_count=8" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michelgomessilva&show_icons=true&theme=radical&rank_icon=github&display_format=v2&cache_seconds=1800" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelgomessilva&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" height="180em" />
 </div>
 
 ---
