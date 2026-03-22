@@ -69,15 +69,65 @@ Recentemente, tenho dedicado grande parte do meu tempo ao estudo profundo de **E
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Development & Architecture
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Development & Architecture** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![DDD](https://img.shields.io/badge/DDD-00599C?style=flat-square&logo=domain-driven-design&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4169E1?style=flat-square&logo=architecture&logoColor=white) |
-| **Data Engineering** | ![Fabric](https://img.shields.io/badge/Fabric-0078D4?style=flat-square) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow) |
-| **Cloud & Databases** | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | 
+#### 🧠 Languages
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
-</div>
+#### ⚙️ Frameworks & Runtime
+<p>
+  <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+#### 🏗️ Architecture & Design
+<p>
+  <img src="https://img.shields.io/badge/clean_architecture-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ddd-00599C?style=for-the-badge" />
+</p>
+
+### 🐍 Data Engineering
+
+#### Languages & Processing
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+#### Orchestration & Transformation
+<p>
+  <img src="https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+</p>
+
+#### Lakehouse & Platforms
+<p>
+  <img src="https://img.shields.io/badge/delta_lake-0C2238?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/lakehouse-1F2937?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/microsoft_fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure_data_factory-0062AD?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+
+#### Cloud & Databases
+<p>
+  <img src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/google_bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql_server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+#### DevOps & Delivery
+<p>
+  <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 ---
 
